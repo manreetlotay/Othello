@@ -1,0 +1,6 @@
+# Ignore Eclipse Project and Java bytecode Files and Folders, keep only source`files
+/.settings
+/bin
+
+/.classpath
+/.project
