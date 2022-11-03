@@ -1,3 +1,3 @@
-#Othello
-##Project done at Concordia Univercity, Orianted Object Programming
+# Othello
+## Project done at Concordia Univercity, Orianted Object Programming
 DESCRIPTION
