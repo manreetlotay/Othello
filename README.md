@@ -1,5 +1,6 @@
 # Othello Console Game
-DESCRIPTION
+DESCRIPTION: 
+<br>
 Built a variant of the game Othello in Java using inheritance and polymorphism.
 Implemented the classes Game, Board, Position and Player.
 Created functions to check for playable positions on the board, track player scores and flip pieces on the board.
