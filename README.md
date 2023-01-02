@@ -1,5 +1,4 @@
-# Othello
-## Project done at Concordia Univercity, Orianted Object Programming
+# Othello Console Game
 DESCRIPTION
 Built a variant of the game Othello in Java using inheritance and polymorphism.
 Implemented the classes Game, Board, Position and Player.
