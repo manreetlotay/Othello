@@ -1,6 +1,6 @@
 # Othello Console Game
 <br>
-<u>ABOUT THE PROJECT</u>: 
+##ABOUT THE PROJECT: 
 <br>
 Built a variant of the game Othello in Java using inheritance and polymorphism.
 <br>Implemented the classes Game, Board, Position and Player.
